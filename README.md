@@ -1,6 +1,6 @@
 # Methods-of-efficient-programming
  This Repository is about to compare the runtime for different methods of efficient and inefficient programming. 
- There are few Examples, wich you can run to get the results:
+ There are few examples, wich you can run to get the results:
  
 1. An implementation of an Decorator Pattern with the associated AntiPattern for Innerclasses and Subclasses. To compare the runtime of an specific call you have to run the "ComparePattern" Class. There are 2 examples which are executed. One is without and one with an extra calculation for the concrete Component, wich will be decoratet.
  
